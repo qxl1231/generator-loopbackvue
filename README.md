@@ -12,4 +12,4 @@
 `yo loopbackvue`
 然后就会在此目录下生成相关目录结构
 
-檀木进入目录,运行`npm install`
+最后,进入目录,运行`npm install`
