@@ -28,7 +28,8 @@ var loopbackvue = yeoman.Base.extend({
     this.copy('daovoice.png', 'daovoice.png');
     this.copy('alipay.jpeg', 'alipay.jpeg');
     this.copy('ci.sh', 'ci.sh');
-    this.copy('circle.yml', 'circle.yml');
+    this.copy('ci.sh', 'ci.sh');
+    this.copy('.yo-rc.json', '.yo-rc.json');
   },
   generateClient: function() {
     this.sourceRoot(path.join(__dirname, 'templates'));
