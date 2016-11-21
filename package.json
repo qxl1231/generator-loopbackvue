@@ -1,6 +1,6 @@
 {
   "name": "generator-loopbackvue",
-  "version": "1.0.3",
+  "version": "1.0.8",
   "description": "loopback+vue yeoman generator",
   "main": "index.js",
   "scripts": {
